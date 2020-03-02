@@ -1,0 +1,7 @@
+{
+  "type": "actions",
+  "observations": [
+    ["pick-up", ["k"]],
+    ["stack", ["b", "c"]]
+  ]
+}
